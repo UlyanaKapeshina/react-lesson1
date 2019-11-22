@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-lesson1/static/css/main.e08e42dd.chunk.css",
+    "main.js": "/react-lesson1/static/js/main.abca41f0.chunk.js",
+    "main.js.map": "/react-lesson1/static/js/main.abca41f0.chunk.js.map",
+    "runtime-main.js": "/react-lesson1/static/js/runtime-main.e3a5aee7.js",
+    "runtime-main.js.map": "/react-lesson1/static/js/runtime-main.e3a5aee7.js.map",
+    "static/js/2.0fa39d4f.chunk.js": "/react-lesson1/static/js/2.0fa39d4f.chunk.js",
+    "static/js/2.0fa39d4f.chunk.js.map": "/react-lesson1/static/js/2.0fa39d4f.chunk.js.map",
+    "index.html": "/react-lesson1/index.html",
+    "precache-manifest.c94068a51d64b09669619d8a7cde9bca.js": "/react-lesson1/precache-manifest.c94068a51d64b09669619d8a7cde9bca.js",
+    "service-worker.js": "/react-lesson1/service-worker.js",
+    "static/css/main.e08e42dd.chunk.css.map": "/react-lesson1/static/css/main.e08e42dd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3a5aee7.js",
+    "static/js/2.0fa39d4f.chunk.js",
+    "static/css/main.e08e42dd.chunk.css",
+    "static/js/main.abca41f0.chunk.js"
+  ]
+}
